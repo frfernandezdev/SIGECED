@@ -1,0 +1,1 @@
+<section class="wrapper site-min-height" ng-Init="GetGrafic()"></section>
